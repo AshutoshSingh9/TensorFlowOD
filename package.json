@@ -1,0 +1,35 @@
+{
+  "name": "tensorflowjs-real-time-object-detection",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs": "^3.7.0",
+    "@tensorflow/tfjs-converter": "3.3.0",
+    "@tensorflow/tfjs-core": "3.3.0",
+    "add": "^2.0.6",
+    "package.json": "^2.0.1",
+    "react": "^16.5.2",
+    "react-dom": "16.5.2",
+    "react-magic-dropzone": "1.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.0.3",
+    "seedrandom": "~2.4.3",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
